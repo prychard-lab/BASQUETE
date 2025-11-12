@@ -13,7 +13,7 @@ header {
 
 }
 
-section {
+.chamada {
     background: rgb(255, 31, 31);
     padding-bottom: 80px;
     padding-top: 80px;
@@ -24,6 +24,9 @@ section {
 
 .chamada-texto {
     margin-right: 5%;
+}
+img{
+    height: 200px;
 }
 .categoria-vídeos{
     display: flex;
